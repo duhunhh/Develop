@@ -1,17 +1,17 @@
 <mxfile host="app.diagrams.net">
-  <diagram name="第 1 页" id="8Kx63yX539kKgUbxaKrB">
-    <mxGraphModel dx="1029" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="第 1 页" id="JcyfPpu9qUkzZBT2obPW">
+    <mxGraphModel dx="506" dy="443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dUFty1GckUwIvPLYuoKR-5" edge="1" parent="1" source="7OFIa95mLBeYGgNKyDTC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="dUFty1GckUwIvPLYuoKR-4" value="">
+        <mxCell id="pFmgaCcIzfIbL-jt2bx0-1" edge="1" parent="1" source="pFmgaCcIzfIbL-jt2bx0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="pFmgaCcIzfIbL-jt2bx0-3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7OFIa95mLBeYGgNKyDTC-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="上电初始化，进入循环" vertex="1">
-          <mxGeometry height="60" width="120" x="330" y="30" as="geometry" />
+        <mxCell id="pFmgaCcIzfIbL-jt2bx0-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="上电初始化，进入循环" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="dUFty1GckUwIvPLYuoKR-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="80" width="240" x="270" y="130" as="geometry" />
+        <mxCell id="pFmgaCcIzfIbL-jt2bx0-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="80" width="240" x="310" y="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
